@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: f9746bee347475f469e044678e471f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3710339958793375805
+    second: Saurial_flying_0
+  - first:
+      213: 3918592919695423779
+    second: Saurial_flying_1
+  - first:
+      213: 15564531866935785
+    second: Saurial_flying_2
+  - first:
+      213: -954429050366064496
+    second: Saurial_flying_3
+  - first:
+      213: 3174928951350284029
+    second: Saurial_flying_4
+  - first:
+      213: -3267276337219168951
+    second: Saurial_flying_5
+  - first:
+      213: -4798619270584645335
+    second: Saurial_flying_6
+  - first:
+      213: 5052207887313942548
+    second: Saurial_flying_7
+  - first:
+      213: 5910605057178264946
+    second: Saurial_flying_8
+  - first:
+      213: 5676725485753491417
+    second: Saurial_flying_9
+  - first:
+      213: 4165572975063990993
+    second: Saurial_flying_10
+  - first:
+      213: -4249262191821319368
+    second: Saurial_flying_11
+  - first:
+      213: 5011036314342554624
+    second: Saurial_flying_12
+  - first:
+      213: 3794643148627945204
+    second: Saurial_flying_13
+  - first:
+      213: 4259055169090227749
+    second: Saurial_flying_14
+  - first:
+      213: -4539082568419148251
+    second: Saurial_flying_15
+  - first:
+      213: -3176929516842733272
+    second: Saurial_flying_16
+  - first:
+      213: -5673310466770739403
+    second: Saurial_flying_17
+  - first:
+      213: 2199374891118884902
+    second: Saurial_flying_18
+  - first:
+      213: 4174063447503022050
+    second: Saurial_flying_19
+  - first:
+      213: -4049695994805295344
+    second: Saurial_flying_20
+  - first:
+      213: -751599535374073816
+    second: Saurial_flying_21
+  - first:
+      213: -757479575034189075
+    second: Saurial_flying_22
+  - first:
+      213: 6322280017409753389
+    second: Saurial_flying_23
+  - first:
+      213: 693338809767454278
+    second: Saurial_flying_24
+  - first:
+      213: -4269638826377324306
+    second: Saurial_flying_25
+  - first:
+      213: -1840379698651764152
+    second: Saurial_flying_26
+  - first:
+      213: 5243577399266172864
+    second: Saurial_flying_27
+  - first:
+      213: -924374079174781994
+    second: Saurial_flying_28
+  - first:
+      213: -4322172697515202260
+    second: Saurial_flying_29
+  - first:
+      213: 5761411810572649644
+    second: Saurial_flying_30
+  - first:
+      213: -1859027608622514597
+    second: Saurial_flying_31
+  - first:
+      213: -2141383874677393781
+    second: Saurial_flying_32
+  - first:
+      213: 1733800312281278772
+    second: Saurial_flying_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saurial_flying_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 733
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfee283779328cc0800000000000000
+      internalID: -3710339958793375805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 639
+        width: 141
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297ec5bf73a16630800000000000000
+      internalID: 3918592919695423779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 638
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12609fbdb473000800000000000000
+      internalID: 15564531866935785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_3
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 639
+        width: 128
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0980e91e5df21c2f0800000000000000
+      internalID: -954429050366064496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_4
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 750
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe465c4f0d9f0c20800000000000000
+      internalID: 3174928951350284029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 638
+        width: 195
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94513096b7d48a2d0800000000000000
+      internalID: -3267276337219168951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 628
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92945749231e76db0800000000000000
+      internalID: -4798619270584645335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 601
+        width: 164
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41836c64e4c0d1640800000000000000
+      internalID: 5052207887313942548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 600
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ecb8dbffa60250800000000000000
+      internalID: 5910605057178264946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 627
+        width: 186
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5eb1b0c7c7ce40800000000000000
+      internalID: 5676725485753491417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 433
+        width: 109
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d208a8fc861fc930800000000000000
+      internalID: 4165572975063990993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 415
+        width: 81
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8331ef2dc869705c0800000000000000
+      internalID: -4249262191821319368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 400
+        width: 92
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c78f07af6ca8540800000000000000
+      internalID: 5011036314342554624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 399
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a65bb6d749a430800000000000000
+      internalID: 3794643148627945204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 399
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0a606c143b1b30800000000000000
+      internalID: 4259055169090227749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_15
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 399
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e753ff370f101c0800000000000000
+      internalID: -4539082568419148251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_16
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 399
+        width: 106
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b220cf6749e3d0800000000000000
+      internalID: -3176929516842733272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_17
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 399
+        width: 123
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fdf9f503a5441b0800000000000000
+      internalID: -5673310466770739403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 226
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fd098fcfb58e10800000000000000
+      internalID: 2199374891118884902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 205
+        width: 78
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e72c5227904de930800000000000000
+      internalID: 4174063447503022050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 200
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ee4de2f69cc7c0800000000000000
+      internalID: -4049695994805295344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 208
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8200ea86438c195f0800000000000000
+      internalID: -751599535374073816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 199
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea297df654ec75f0800000000000000
+      internalID: -757479575034189075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_23
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 200
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214240dd204db750800000000000000
+      internalID: 6322280017409753389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_24
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 210
+        width: 102
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466e2959fb3f9900800000000000000
+      internalID: 693338809767454278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_25
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 233
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee85092eb123fb4c0800000000000000
+      internalID: -4269638826377324306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11
+        width: 156
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a65023a68a576e0800000000000000
+      internalID: -1840379698651764152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 191
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd68becdde4c840800000000000000
+      internalID: 5243577399266172864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 9
+        width: 201
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3553b2ca6fb23f0800000000000000
+      internalID: -924374079174781994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 8
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e6bad4de8404c0800000000000000
+      internalID: -4322172697515202260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 8
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44ce53485a4ff40800000000000000
+      internalID: 5761411810572649644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 9
+        width: 198
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e39605d386336e0800000000000000
+      internalID: -1859027608622514597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_32
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 10
+        width: 170
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ba1626b64842e0800000000000000
+      internalID: -2141383874677393781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saurial_flying_33
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 11
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439acfca232bf0810800000000000000
+      internalID: 1733800312281278772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
