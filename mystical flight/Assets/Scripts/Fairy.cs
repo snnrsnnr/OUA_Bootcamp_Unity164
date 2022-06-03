@@ -9,8 +9,14 @@ public class Fairy : MonoBehaviour
     public float velocity = 1f;
     public Rigidbody2D rb2D;
     public GameManager managerGame;
+    public GameObject DeathScreen;
 
-   void Update()
+    private void Start()
+    {
+        Time.timeScale = 1;
+     }
+
+    void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
@@ -23,6 +29,16 @@ public class Fairy : MonoBehaviour
         if(collision.gameObject.name == "ScoreArea")
         {
             managerGame.UpdateScore();
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "DeathArea")
+        {
+            isDead = true;
+            Time.timeScale = 0;
+            DeathScreen.SetActive(true);
         }
     }
 }
