@@ -15,8 +15,8 @@ public class GameManager : MonoBehaviour
         score = 0;
         ScoreText.text = score.ToString();
     }
+   
 
-    
     void Update()
     {
         
@@ -32,4 +32,6 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+
+    
 }

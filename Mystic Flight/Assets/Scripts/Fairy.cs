@@ -10,6 +10,7 @@ public class Fairy : MonoBehaviour
     public Rigidbody2D rb2D;
     public GameManager managerGame;
     public GameObject DeathScreen;
+    
 
     private void Start()
     {
@@ -40,5 +41,8 @@ public class Fairy : MonoBehaviour
             Time.timeScale = 0;
             DeathScreen.SetActive(true);
         }
+        
     }
+
+    
 }
