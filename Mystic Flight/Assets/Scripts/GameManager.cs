@@ -33,5 +33,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    
+    public void QuitButton()
+    {
+        Debug.Log("Oyundan Çýktýk");
+        Application.Quit();
+    }
+
 }

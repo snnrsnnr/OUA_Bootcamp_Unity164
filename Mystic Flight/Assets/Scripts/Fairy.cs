@@ -10,17 +10,23 @@ public class Fairy : MonoBehaviour
     public Rigidbody2D rb2D;
     public GameManager managerGame;
     public GameObject DeathScreen;
-    
-
+    public AudioSource sescontrol;
+    public AudioClip olumsesi;
+    public AudioClip ucmasesi;
     private void Start()
     {
         Time.timeScale = 1;
-     }
-
-    void Update()
+        
+        sescontrol = GetComponent<AudioSource>();
+    }
+    
+        
+    
+void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
+            sescontrol.PlayOneShot(ucmasesi, 0.2f);
             rb2D.velocity = Vector2.up * velocity;
         }
     }
@@ -40,9 +46,9 @@ public class Fairy : MonoBehaviour
             isDead = true;
             Time.timeScale = 0;
             DeathScreen.SetActive(true);
+            sescontrol.PlayOneShot(olumsesi, 0.5f);
         }
         
     }
-
     
 }

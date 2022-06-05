@@ -6,11 +6,15 @@ using UnityEngine.SceneManagement;
 public class start : MonoBehaviour
 {
    
-   public void Scenes()
+   public void PlayButton()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(1);
     }
-
+    public void QuitButton()
+    {
+        Debug.Log("Oyundan Çýktýk");
+        Application.Quit();
+    }
 
 }
 
