@@ -28,8 +28,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    Unity.Timeline.Editor.dll:
-    - TimelineProjectSettings
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -88,35 +86,35 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1548}
+      Script: {instanceID: 1552}
     - Class: 114
-      Script: {instanceID: 1824}
+      Script: {instanceID: 1828}
     - Class: 114
-      Script: {instanceID: 2278}
+      Script: {instanceID: 2282}
     - Class: 114
-      Script: {instanceID: 2374}
+      Script: {instanceID: 2378}
     - Class: 114
-      Script: {instanceID: 2704}
+      Script: {instanceID: 2708}
     - Class: 114
-      Script: {instanceID: 2774}
+      Script: {instanceID: 2778}
     - Class: 114
-      Script: {instanceID: 2878}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 3114}
+      Script: {instanceID: 3118}
     - Class: 114
-      Script: {instanceID: 3244}
+      Script: {instanceID: 3248}
     - Class: 114
-      Script: {instanceID: 3320}
+      Script: {instanceID: 3324}
     - Class: 114
-      Script: {instanceID: 3364}
+      Script: {instanceID: 3368}
     - Class: 114
-      Script: {instanceID: 3484}
+      Script: {instanceID: 3488}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3802}
     - Class: 114
-      Script: {instanceID: 4256}
+      Script: {instanceID: 4260}
     - Class: 114
-      Script: {instanceID: 5010}
+      Script: {instanceID: 5014}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -159,31 +157,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1548}
+      Script: {instanceID: 1552}
     - Class: 114
-      Script: {instanceID: 1864}
+      Script: {instanceID: 1868}
     - Class: 114
-      Script: {instanceID: 2270}
+      Script: {instanceID: 2274}
     - Class: 114
-      Script: {instanceID: 2374}
+      Script: {instanceID: 2378}
     - Class: 114
-      Script: {instanceID: 2704}
+      Script: {instanceID: 2708}
     - Class: 114
-      Script: {instanceID: 2878}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 3114}
+      Script: {instanceID: 3118}
     - Class: 114
-      Script: {instanceID: 3364}
+      Script: {instanceID: 3368}
     - Class: 114
-      Script: {instanceID: 3484}
+      Script: {instanceID: 3488}
     - Class: 114
-      Script: {instanceID: 3510}
+      Script: {instanceID: 3514}
     - Class: 114
-      Script: {instanceID: 4256}
+      Script: {instanceID: 4260}
     - Class: 114
-      Script: {instanceID: 4888}
+      Script: {instanceID: 4892}
     - Class: 114
-      Script: {instanceID: 5288}
+      Script: {instanceID: 5292}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -759,5 +757,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - "Assets/Scenes/\u0130ntro.unity"
   - Assets/Scenes/Game.unity
-  playerPath: C:/Users/Sena/Desktop/Bootcamp_Senanur/Mystic Flight/build/mystical
-    flight.exe
+  playerPath: C:/Users/Sena/Desktop/build/Mystic Flight.exe
