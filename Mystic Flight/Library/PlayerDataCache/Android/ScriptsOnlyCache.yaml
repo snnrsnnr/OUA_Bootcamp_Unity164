@@ -341,7 +341,7 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+      Hash: 3a658204a532a072e1787a9ebb52cc03
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Move
