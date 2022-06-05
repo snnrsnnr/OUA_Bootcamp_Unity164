@@ -12,7 +12,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -341,7 +340,7 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+      Hash: 3a658204a532a072e1787a9ebb52cc03
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Move
@@ -683,7 +682,7 @@ ScriptsOnlyBuild:
     className: SpriteSkinEntity
   - hash:
       serializedVersion: 2
-      Hash: bbf9e490b670f819acc64e9a8888367e
+      Hash: 18a5a6e029ff53358bc5e5fc903a0797
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
@@ -757,4 +756,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - "Assets/Scenes/\u0130ntro.unity"
   - Assets/Scenes/Game.unity
-  playerPath: C:/Users/Sena/Desktop/build/Mystic Flight.exe
+  playerPath: "C:/Users/Sena/Desktop/Yeni klas\xF6r/Mystic Flight.exe"
