@@ -18,13 +18,12 @@ Senanur Keretli(Ürün Sahibi/Scrum Master/Geliştirici)
 **Kategori**: 2-boyutlu android telefon aplikasyonu.
 
 ## Ürün Özellikleri
--Mitolojik karakter
+- Mitolojik Karakter
 -
 
 ## Hedef Kitle 
 -5-70 yaş 
--Mitoloji sevenler
 
-## Ürün İş Listesi URL'si
+- Mitoloji sevenler
 
 -**Detaylar:** Puanlar Finobacci sayılarına göre belirlenmiştir. 
