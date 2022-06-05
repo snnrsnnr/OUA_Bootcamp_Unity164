@@ -1,22 +1,30 @@
 # OUA_Bootcamp_Unity164
 Oyun ve Uygulama Akademisi Unity Takım 164 Bootcamp projesi.
 
-Takım İsmi: 164
+# **Takım İsmi: 164**
 
-Ürün İle İlgili Bilgiler
+## Ürün İle İlgili Bilgiler
 
-Takım Elemanları
+## Takım Elemanları
 
-Senanur Keretli: Ürün Sahibi /Scrum Master / Geliştirici
+Senanur Keretli(Ürün Sahibi/Scrum Master/Geliştirici)
 
-Ürün İsmi: Mystic Flight
+## Ürün İsmi
+**Mystic Flight**
 
-Ürün Açıklaması
+## Ürün Açıklaması
 
-Konu: Mistik bir ortamda yaşayan perinin uçarak paraları toplamasını sağlamak ve sütunlara çarpmamak.
+**Konu**: Mistik bir ortamda yaşayan perinin uçarak paraları toplamasını sağlamak ve sütunlara çarpmamak.
+**Kategori**: 2-boyutlu android telefon aplikasyonu.
 
-Hedef Kitle: 5-70 yaş 
+## Ürün Özellikleri
+-Mitolojik karakter
+-
 
-Product Backlog URL
+## Hedef Kitle 
+-5-70 yaş 
+-Mitoloji sevenler
 
-Detaylar: Puanlar Finobacci sayılarına göre belirlenmiştir. 
+## Ürün İş Listesi URL'si
+
+-**Detaylar:** Puanlar Finobacci sayılarına göre belirlenmiştir. 
