@@ -16,7 +16,7 @@ Senanur Keretli: Ürün Sahibi/Scrum Master/Geliştirici
 
 **Konu**: Mistik bir ortamda yaşayan perinin uçarak paraları toplamasını sağlamak ve sütunlara çarpmamak.
 
-**Kategori**: 2-boyutlu android telefon aplikasyonu.
+**Kategori**: 2-boyutlu android telefon oyunu.
 
 ## Ürün Özellikleri
 - Mitolojik Karakter
