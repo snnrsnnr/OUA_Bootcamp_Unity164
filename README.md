@@ -21,10 +21,9 @@ Senanur Keretli: Ürün Sahibi/Scrum Master/Geliştirici
 ## Ürün Özellikleri
 - Mitolojik Karakter
 - Antik mekan
-
+- 2D Konsept oyun 
 ## Hedef Kitle 
 - 5-70 yaş
-
 - Mitoloji sevenler
 
 ## Ürün İş Listesi URL'si
@@ -43,7 +42,10 @@ https://miro.com/app/board/uXjVOvaguHI=/
 
 - **Daily Scrum:** -
 
--  **Sprint Board Update:** -
+-  **Sprint Board Update:** ![1](https://user-images.githubusercontent.com/104438205/172247985-d9301c35-5913-4040-b80c-ac7f5ab023cf.JPG)
+![2](https://user-images.githubusercontent.com/104438205/172247995-1143ae5d-611c-44a7-9702-86c69b54fdb8.JPG)
+![3](https://user-images.githubusercontent.com/104438205/172248024-dfbe4a23-6b12-4b24-927a-c83f9e8df514.JPG)
+
 
 -  **Ürün Durumu:** Tamamlandı
 
