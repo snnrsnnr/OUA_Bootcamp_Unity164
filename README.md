@@ -49,6 +49,6 @@ https://miro.com/app/board/uXjVOvaguHI=/
 
 -  **Ürün Durumu:** Tamamlandı
 
--  **Sprint Review:** -
+-  **Sprint Review:**  Tüm görevler tamamlanmış ve 248 puana ulaşılmıştır.
 
 -  **Sprint Retrospective:** -
