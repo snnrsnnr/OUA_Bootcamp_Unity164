@@ -35,9 +35,9 @@ https://miro.com/app/board/uXjVOvaguHI=/
 ## Sprint 3
 - **Sprint Notları:** Sprintte çalışır bir oyunun ortaya çıkarılması planlanmaktadır. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan:** x
-
-- **Puan tamamlama mantığı:** Sprint 3 için x puanlık iş oluşturulmuştur. Puanlar Finobacci sayılarına göre belirlenmiştir. Linkteki boardda bulunan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 248
+- 
+- **Puan tamamlama mantığı:** Sprint 3 için 248 puanlık iş oluşturulmuştur. Puanlar Finobacci sayılarına göre belirlenmiştir. 
 
 -  **Backlog düzeni ve Story seçimleri:** Boarddaki kullanıcı hikayelerin tamamı sprint 3 için geçerlidir. Bu sprintte seçim projeyi çalışır durumda ortaya çıkarabilecek şekilde yapılmıştır.
 
