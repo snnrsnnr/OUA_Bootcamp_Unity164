@@ -28,6 +28,7 @@ Senanur Keretli: Ürün Sahibi/Scrum Master/Geliştirici
 - Mitoloji sevenler
 
 ## Ürün İş Listesi URL'si
+https://miro.com/app/board/uXjVOvaguHI=/
 
 -**Detaylar:** Puanlar Finobacci sayılarına göre belirlenmiştir. Linkteki boardda bulunan kartların açıklama kısımlarında, kullanıcı hikayeleri ve puanları yer almaktadır.
 
